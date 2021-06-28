@@ -1,3 +1,4 @@
+#Sink a Dot Com
 Welcome to the - Deluxe version of Sink a Dot Com.
 Your goal is to sink three dot coms: apple.com, samsung.com, microsoft.com
 
